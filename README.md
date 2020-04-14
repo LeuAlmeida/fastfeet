@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="FastFeet" src="github/logo.png" />
+<img alt="FastFeet" src="./logo.png" />
 </p>
 
 <h1 align="center">FastFeet Application from Rocketseat GoStack</h1>
@@ -9,7 +9,7 @@
 </blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LeuAlmeida/fastfeet?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LeuAlmeida/fastfeet-web?color=%2304D361">
 
   <a href="https://leunardo.dev">
     <img alt="Made by Léu Almeida" src="https://img.shields.io/badge/made%20by-Léu%20Almeida-%2304D361">
@@ -128,7 +128,7 @@ $ yarn
 $ yarn start
 ```
 
-# :closed_lock_with_key: Mobile App instructions (Has not been tested on iOS )
+# :closed_lock_with_key: Mobile App instructions (Has not been tested on iOS)
 
 Make a clone from the repo and install the dependencies
 
