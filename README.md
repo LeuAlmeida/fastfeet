@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img alt="FastFeet presentation" src="./github/animation.gif" />
+<img alt="FastFeet presentation" src="./presentation-fastfeet.jpg" />
 </p>
 
 ## Introduction
