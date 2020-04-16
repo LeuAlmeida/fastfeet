@@ -20,6 +20,15 @@
 <img alt="FastFeet presentation" src="./presentation-fastfeet.jpg" />
 </p>
 
+<h3 align="center">
+  Separated repositories with your own commits and presentations:
+</h3>
+
+<p align="center">
+<a href="https://github.com/leualmeida/fastfeet.api">:electric_plug: Backend</a> | <a href="https://github.com/leualmeida/fastfeet-web">:computer: Frontend</a> | <a href="https://github.com/leualmeida/fastfeet-app">:iphone: Mobile App</a>
+</p>
+
+
 ## Introduction
 
 [Fastfeet](https://github.com/LeuAlmeida/fastfeet-web) is a fictitious logistic company and this repository belong to the business logic and is the basis of a general structure and all of this be a part of the [Rocketseat bootcamp](https://github.com/rocketseat) certify.
@@ -113,7 +122,7 @@ $ nodemon src/queue.js
 [nodemon] starting `node -r sucrase/register src/queue.js`
 ```
 
-# :closed_lock_with_key: Web Application instructions
+# :computer: Web Application instructions
 
 Make a clone from the repo and install the dependencies. (Certify yourself that the api is running)
 
@@ -128,7 +137,7 @@ $ yarn
 $ yarn start
 ```
 
-# :closed_lock_with_key: Mobile App instructions (Has not been tested on iOS)
+# :iphone: Mobile App instructions (Has not been tested on iOS)
 
 Make a clone from the repo and install the dependencies
 
